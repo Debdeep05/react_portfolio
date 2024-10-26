@@ -6,7 +6,7 @@ import ProjectCard from "./ProjectCard";
 import axios from "axios";
 
 const dummyProject = {
-  name: null,
+  name: "",
   description: null,
   svn_url: null,
   stargazers_count: null,
